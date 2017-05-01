@@ -4,7 +4,7 @@ Oluşturulan başlatıcı dosyasının çalışması çalıştırma izninin veri
 Başlatıcı dosyası programın çalıştırıldığı dizinde oluşturulur.
 Kodlar indirildikten sonra aşağıdaki komutla derlenebilir.
 
-mkdir build
-cd build/
-qmake ../DesktopLauncherCreator.pro
+mkdir build  
+cd build/  
+qmake ../DesktopLauncherCreator.pro  
 make 
